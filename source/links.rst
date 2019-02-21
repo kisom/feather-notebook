@@ -27,6 +27,7 @@ FeatherWings
 Systems
 -------
 
+-  `Adafruit GFX library <https://learn.adafruit.com/adafruit-gfx-graphics-library/>`__
 -  `Using LoraWAN and The Things Network with
    Feather <https://learn.adafruit.com/the-things-network-for-feather/>`__
 -  `Introducing the
