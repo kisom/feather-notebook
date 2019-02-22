@@ -12,6 +12,8 @@ Feather Notebook
 
    links
    radiowing
+   notes
+   wishlist
 
 
 
