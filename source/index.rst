@@ -13,6 +13,7 @@ Feather Notebook
    links
    radiowing
    notes
+   projects
    wishlist
 
 
