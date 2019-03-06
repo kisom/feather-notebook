@@ -10,6 +10,7 @@ Computing
    M0 <https://learn.adafruit.com/adafruit-feather-m0-radio-with-lora-radio-module/>`__
 -  `M0
    basic <https://learn.adafruit.com/adafruit-feather-m0-basic-proto>`__
+- `M0 with WiFi <https://learn.adafruit.com/adafruit-feather-m0-wifi-atwinc1500/>`__
 -  `BlueFruit
    nRF52 <https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide/>`__
 
