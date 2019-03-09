@@ -13,6 +13,7 @@ Computing
 - `M0 with WiFi <https://learn.adafruit.com/adafruit-feather-m0-wifi-atwinc1500/>`__
 -  `BlueFruit
    nRF52 <https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide/>`__
+-  `Feather HUZZAH 8266 <https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/overview>`__
 
 FeatherWings
 ------------
