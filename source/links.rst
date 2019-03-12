@@ -14,6 +14,7 @@ Computing
 -  `BlueFruit
    nRF52 <https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide/>`__
 -  `Feather HUZZAH 8266 <https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/overview>`__
+-  `Feather HUZZAH32 <https://learn.adafruit.com/adafruit-huzzah32-esp32-feather>`__
 
 FeatherWings
 ------------
